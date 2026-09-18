@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sulii01
 - 👀 I’m interested in Network engineering, programming in python and front end development
 - 📫 How to reach me sulakhonza@gmail.com
-- 😄 Pronouns: He/him
 
 <!---
 Sulii01/Sulii01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
